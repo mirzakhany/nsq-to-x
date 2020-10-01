@@ -6,7 +6,7 @@ This lightweight alpine docker image provides nsq_to_x binaries for to subscribe
 ## Run
 
 Example to just run nsq_to_http on entry:  
-`docker run --rm mirzakhani/nsq_to_x nsq_to_http`  
+`docker run --rm mirzakhani/nsq-to-x nsq_to_http`  
 
 
 ## Build
